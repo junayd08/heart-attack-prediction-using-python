@@ -10,4 +10,7 @@ Key Features:
 
 This project contributes to public health efforts by leveraging data-driven insights to enhance early detection and prevention of heart disease.
 
-📌 Technologies Used: Python, Pandas, Scikit-learn, Matplotlib, Power BI
+📌 Technologies Used: Python, Pandas, Scikit-learn, Matplotlib
+
+Results:
+The Random Forest model achieved 73.08% accuracy in predicting heart attack risk in Indonesia. While effective, it struggles with recall, misclassifying some high-risk cases. Improvements like better feature selection, data balancing, and advanced models can enhance accuracy. Deploying an interactive dashboard will help in real-world healthcare applications.
